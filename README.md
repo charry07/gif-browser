@@ -2,6 +2,8 @@
 
 A modern and feature-rich GIF search application built with React, TypeScript, and Material-UI. This project showcases advanced React patterns, API integration with caching, and a polished user interface.
 
+> 🌐 **Live Demo**: Once deployed, visit `https://[your-username].github.io/gif-browser/` | 📖 [Deployment Guide](./DEPLOYMENT.md)
+
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat&logo=typescript)
 ![Material-UI](https://img.shields.io/badge/MUI-7.3.7-007FFF?style=flat&logo=mui)
